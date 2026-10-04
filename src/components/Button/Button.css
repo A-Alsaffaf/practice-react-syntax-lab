@@ -1,0 +1,9 @@
+.button{
+    background-color: royalblue;
+    border: solid;
+    border-color: gold;
+    padding: 10px;   
+    width: 100px;
+    text-align: center;
+
+}
